@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Terzi App</string>
+    <string name="facebook_app_id">283047730194692</string>
+    <string name="fb_login_protocol_scheme">fb283047730194692</string>
+
+</resources>
